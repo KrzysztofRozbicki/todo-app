@@ -5,12 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel src/index.html",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "prebuild-dev": "shx rm -rf dist/*",
-    "build-dev": "parcel build ./src/index.html --no-optimize --public-url ./",
-    "prebuild": "shx rm -rf dist/*",
-    "build": "parcel build ./src/index.html --public-url ./",
-    "push-gh-pages": "push-dir --dir=dist --branch=gh-pages --cleanup --verbose"
+    "build": "parcel build src/index.html --public-url /todo-app/"
   },
   "keywords": [],
   "author": "",
@@ -20,7 +15,7 @@
     "postcss": "^8.4.21",
     "posthtml-doctype": "^1.1.1",
     "posthtml-include": "^1.7.4",
-    "tailwindcss": "^3.2.7",
-    "shx": "^0.3.2"
+    "shx": "^0.3.2",
+    "tailwindcss": "^3.2.7"
   }
 }
