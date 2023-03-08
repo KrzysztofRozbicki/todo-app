@@ -1,22 +1,25 @@
 {
   "name": "todo-app",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "homepage": "https://krzysztofrozbicki.github.io/todo-app",
   "scripts": {
-    "start": "parcel src/index.html",
+    "dev": "parcel src/index.html",
     "build": "parcel build src/index.html --public-url /todo-app/"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+  },
   "keywords": [],
-  "author": "",
+  "author": "Krzysztof Rozbicki",
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.8.3",
     "postcss": "^8.4.21",
     "posthtml-doctype": "^1.1.1",
     "posthtml-include": "^1.7.4",
-    "shx": "^0.3.2",
     "tailwindcss": "^3.2.7"
   }
 }
