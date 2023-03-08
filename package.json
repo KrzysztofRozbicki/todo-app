@@ -4,8 +4,8 @@
   "description": "",
   "homepage": "https://krzysztofrozbicki.github.io/todo-app",
   "scripts": {
-    "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url todo-app"
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url todo-app"
   },
   "repository": {
     "type": "git",
@@ -15,6 +15,7 @@
   "author": "Krzysztof Rozbicki",
   "license": "ISC",
   "devDependencies": {
+    "cssnano": "^5.1.15",
     "parcel": "^2.8.3",
     "postcss": "^8.4.21",
     "posthtml-doctype": "^1.1.1",
