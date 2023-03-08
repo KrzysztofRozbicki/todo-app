@@ -1,4 +1,4 @@
-6295
+6299
 56C:\Git_Hub\todo-app\node_modules\@parcel\watcher\LICENSE133227702247223058 0
 70C:\Git_Hub\todo-app\node_modules\terser\node_modules\commander\LICENSE133227702247252997 0
 72C:\Git_Hub\todo-app\node_modules\css-tree\lib\definition-syntax\parse.js133227702251756643 0
@@ -14,7 +14,7 @@
 77C:\Git_Hub\todo-app\node_modules\node-gyp-build-optional-packages\optional.js133227702248175644 0
 69C:\Git_Hub\todo-app\node_modules\tailwindcss\lib\lib\generateRules.js133227702251796539 0
 70C:\Git_Hub\todo-app\node_modules\postcss-discard-comments\src\index.js133227702308526384 0
-24C:\Git_Hub\todo-app\dist133227702709688591 1
+24C:\Git_Hub\todo-app\dist133227704371939048 1
 59C:\Git_Hub\todo-app\node_modules\postcss-merge-longhand\src133227702308721004 1
 56C:\Git_Hub\todo-app\node_modules\postcss-import\index.js133227702247447593 0
 57C:\Git_Hub\todo-app\node_modules\@parcel\watcher\index.js133227702250534772 0
@@ -292,6 +292,7 @@
 50C:\Git_Hub\todo-app\node_modules\lmdb\package.json133227702252125657 0
 29C:\Git_Hub\todo-app\.cache\9b133227702284852296 1
 76C:\Git_Hub\todo-app\node_modules\caniuse-lite\data\features\passwordrules.js133227702254414979 0
+46C:\Git_Hub\todo-app\dist\index.0641b553.js.map133227704371939048 0
 70C:\Git_Hub\todo-app\node_modules\@parcel\transformer-json\package.json133227702248095849 0
 56C:\Git_Hub\todo-app\node_modules\postcss-js\package.json133227702248739274 0
 51C:\Git_Hub\todo-app\node_modules\term-size\index.js133227702248709371 0
@@ -1994,7 +1995,7 @@
 69C:\Git_Hub\todo-app\node_modules\tailwindcss\lib\util\toColorValue.js133227702252719202 0
 63C:\Git_Hub\todo-app\node_modules\cosmiconfig\dist\readFile.d.ts133227702250734238 0
 77C:\Git_Hub\todo-app\node_modules\tailwindcss\lib\util\validateFormalSyntax.js133227702252779041 0
-35C:\Git_Hub\todo-app\dist\index.html133227702709648683 0
+35C:\Git_Hub\todo-app\dist\index.html133227704371530120 0
 59C:\Git_Hub\todo-app\node_modules\@babel\highlight\README.md133227702247517394 0
 63C:\Git_Hub\todo-app\node_modules\@parcel\optimizer-htmlnano\lib133227702248055963 1
 74C:\Git_Hub\todo-app\node_modules\tailwindcss\lib\util\withAlphaVariable.js133227702252808969 0
@@ -4474,6 +4475,7 @@
 48C:\Git_Hub\todo-app\node_modules\chalk\readme.md133227702248470001 0
 91C:\Git_Hub\todo-app\node_modules\caniuse-lite\data\features\justify-content-space-evenly.js133227702253751606 0
 45C:\Git_Hub\todo-app\node_modules\chalk\source133227702247976167 1
+42C:\Git_Hub\todo-app\dist\index.0641b553.js133227704371919091 0
 54C:\Git_Hub\todo-app\node_modules\chalk\source\index.js133227702247547314 0
 68C:\Git_Hub\todo-app\node_modules\@parcel\utils\src\getModuleParts.js133227702250180579 0
 50C:\Git_Hub\todo-app\node_modules\caniuse-lite\dist133227702254833858 1
@@ -6184,6 +6186,8 @@
 53C:\Git_Hub\todo-app\node_modules\.bin\tailwindcss.cmd133227702255596967 0
 48C:\Git_Hub\todo-app\node_modules\.bin\terser.cmd133227702255606940 0
 48C:\Git_Hub\todo-app\node_modules\.bin\terser.ps1133227702255596967 0
+43C:\Git_Hub\todo-app\dist\index.61d3354a.css133227704371530120 0
+47C:\Git_Hub\todo-app\dist\index.61d3354a.css.map133227704371570008 0
 43C:\Git_Hub\todo-app\dist\index.b0bf340d.css133227702709648683 0
 29C:\Git_Hub\todo-app\.cache\00133227702284682770 1
 29C:\Git_Hub\todo-app\.cache\04133227702284692846 1
